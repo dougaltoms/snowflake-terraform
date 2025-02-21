@@ -1,7 +1,7 @@
 # snowflake-terraform
 ---
 
-Deploying a demo RBAC model for Snowflake using Terraform
+#### Deploying a demo RBAC model for Snowflake using Terraform
 
 - Environments separated at a database level
 - Business domain level schemas within each database
